@@ -1,4 +1,4 @@
-
+##putaoprovider 是数据库，observer是监听数据库变化
 
 ####**0.项目中引用jar文件putao_observer_support.jar**
 
